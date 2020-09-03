@@ -8,6 +8,8 @@ public class member_DTO {
 	String name;
 	String gender;
 	int age;
+	
+	
 	public int getNo() {
 		return no;
 	}

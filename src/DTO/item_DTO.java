@@ -27,6 +27,7 @@ public class item_DTO {
 	public int getItemCnt() {
 		return itemCnt;
 	}
+	
 	public void setItemCnt(int itemCnt) {
 		this.itemCnt = itemCnt;
 	}
