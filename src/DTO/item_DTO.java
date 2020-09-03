@@ -2,10 +2,10 @@ package DTO;
 
 public class item_DTO {
 
-	int itemNo;
-	String itemName;
-	int itemPrice;
-	int itemCnt;
+	private int itemNo;
+	private String itemName;
+	private int itemPrice;
+	private int itemCnt;
 	public int getItemNo() {
 		return itemNo;
 	}

@@ -4,10 +4,10 @@ public class buylist_DTO {
 
 	
 	
-	int buyNo;
-	int no;
-	int itemNo;
-	int cnt;
+	private int buyNo;
+	private int no;
+	private int itemNo;
+	private int cnt;
 	
 	public int getBuyNo() {
 		return buyNo;

@@ -2,12 +2,12 @@ package DTO;
 
 public class member_DTO {
 
-	int no;
-	String id;
-	String pwd;
-	String name;
-	String gender;
-	int age;
+	private int no;
+	private String id;
+	private String pwd;
+	private String name;
+	private String gender;
+	private int age;
 	
 	
 	public int getNo() {
